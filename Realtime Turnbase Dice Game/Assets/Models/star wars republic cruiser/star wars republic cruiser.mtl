@@ -1,0 +1,306 @@
+newmtl Body0
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body0.jpg
+newmtl Body1
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body1_1.jpg
+newmtl White_porcelain0
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain0_2.jpg
+newmtl Body2
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body2_3.jpg
+newmtl Body3
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body3_4.jpg
+newmtl White_porcelain1
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain1_5.jpg
+newmtl Body4
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body4_6.jpg
+newmtl White_porcelain2
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain2_7.jpg
+newmtl Body5
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body5_8.jpg
+newmtl Body6
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body6_9.jpg
+newmtl Body7
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body7_10.jpg
+newmtl White_porcelain3
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain3_11.jpg
+newmtl Body8
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body8_12.jpg
+newmtl Body9
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body9_13.jpg
+newmtl Body10
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body10_14.jpg
+newmtl Body11
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body11_15.jpg
+newmtl Body12
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body12_16.jpg
+newmtl Body13
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body13_17.jpg
+newmtl Body14
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body14_18.jpg
+newmtl Body15
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body15_19.jpg
+newmtl White_porcelain4
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain4_20.jpg
+newmtl Body16
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body16_21.jpg
+newmtl Body17
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body17_22.jpg
+newmtl Body18
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body18_23.jpg
+newmtl Body19
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body19_24.jpg
+newmtl Body20
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body20_25.jpg
+newmtl Blue_glass0
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 0.435294 0.917647 1
+map_Kd Blue_glass0_26.jpg
+newmtl Body21
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body21_27.jpg
+newmtl Body22
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body22_28.jpg
+newmtl White_porcelain5
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain5_29.jpg
+newmtl BLUE_ENGINE
+Ka 0 0 0
+Ns 1
+Ks 0 0 0
+Kd 0.396078 0.980392 1
+map_Kd BLUE_ENGINE_30.jpg
+newmtl Body23
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body23_31.jpg
+newmtl Body24
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body24_32.jpg
+newmtl Body25
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body25_33.jpg
+newmtl White_porcelain6
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain6_34.jpg
+newmtl Body26
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body26_35.jpg
+newmtl Body27
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body27_36.jpg
+newmtl Blue_glass1
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 0.435294 0.917647 1
+map_Kd Blue_glass1_37.jpg
+newmtl White_porcelain7
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain7_38.jpg
+newmtl Body28
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body28_39.jpg
+newmtl Body29
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body29_40.jpg
+newmtl Body30
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body30_41.jpg
+newmtl White_porcelain8
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain8_42.jpg
+newmtl Body31
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body31_43.jpg
+newmtl Body32
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body32_44.jpg
+newmtl Body33
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body33_45.jpg
+newmtl Body34
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body34_46.jpg
+newmtl Body35
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body35_47.jpg
+newmtl Body36
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body36_48.jpg
+newmtl White_porcelain9
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain9_49.jpg
+newmtl Body37
+Ka 0 0 0
+Ns 2.31637
+Ks 0.792157 0 0.0235294
+Kd 0.296296 0.0143919 0
+map_Kd Body37_50.jpg

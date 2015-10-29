@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Dice.cs">
+    <Files>
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\Scripts\Managers\AppWarpManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\NewAssets\Scripts\LeaderboardManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\Scripts\Constants.cs" Line="1" Column="1" />
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\Scripts\Managers\GameManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\Scripts\Controllers\GameController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\Scripts\Controllers\TableController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\Scripts\Controllers\PlayerContoller.cs" Line="1" Column="1" />
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\Scripts\Screens\MenuScreen.cs" Line="1" Column="1" />
+      <File FileName="..\..\Projects\TeenPattiApp\TeenPatti_CardGame\Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\AppWarp\appwarp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Move.cs" Line="22" Column="46" />
+      <File FileName="Assets\Scripts\Dice.cs" Line="132" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
